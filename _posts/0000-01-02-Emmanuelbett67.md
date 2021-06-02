@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Your words
 Use the left arrow to go back!
 
 $ git log --oneline -5 --author pwebb --before "Sat Aug 30 2014"
